@@ -1,0 +1,16 @@
+.fast-option {
+  background: #e0f7fa;
+  padding: 100px 0;
+  text-align: center;
+  transition: transform 0.5s ease-in-out;
+}
+
+.fast-option h2 {
+  font-size: 2.5rem;
+  color: #00796b;
+}
+
+.fast-option p {
+  font-size: 1.25rem;
+  color: #004d40;
+}
